@@ -6,12 +6,12 @@
 
 https://ineszz.github.io/cartea-de-python-incepatori/
 
-# My Blog
+# Cartea-de-python-incepatori Blog
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_ 
 built using [1littlecoder tutorial](https://www.youtube.com/watch?v=L0boq3zqazI)
 
-![IM](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
+![IM](https://github.com/ineszz/cartea-de-python-incepatori/blob/master/images/matrix.gif)
 
 Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
